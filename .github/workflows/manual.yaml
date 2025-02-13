@@ -1,4 +1,4 @@
-name: build
+name: simple-scan
 on:
   workflow_dispatch:
 jobs:

@@ -1,4 +1,4 @@
-name: simple-scan
+name: scan-image-output-table
 on:
   workflow_dispatch:
 jobs:
